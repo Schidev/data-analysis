@@ -12,4 +12,12 @@
 Исходный код для проверки второй лабораторной может быть найден в файле "02_LAB/02_LAB.ipynb".
 Ссылка на используемые датасеты: 
 1. "https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability/".
-2. "https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews"
+2. "https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews".
+
+# Лабораторная третья
+
+Исходный код для проверки третьей лабораторной может быть найден в файле "03_LAB/03_LAB.ipynb".
+Ссылка на используемые датасеты: 
+1. "https://www.kaggle.com/datasets/uom190346a/water-quality-and-potability/".
+2. "https://www.kaggle.com/datasets/anirudhg15/bears-fastai-2021".
+3. "https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews".
